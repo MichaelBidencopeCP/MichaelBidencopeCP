@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MichaelBidencopeCP
-- 👀 Full Stack, Python, Django, Django-Rest, EC2, JS/jQuery, HTML, CSS, Python, Bootstrap, SQL, Apache2, Linux
+- 👀 Full Stack, Python, Django, Django-Rest, EC2, JS/jQuery, HTML, CSS, Python, Bootstrap, SQL, Apache2, Linux, Luigi, Docker.
 
 
 - 📫 mbidencope3@gmail.com
